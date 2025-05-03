@@ -1,0 +1,26 @@
+# .env handling
+python-dotenv
+
+# LangChain and integrations
+langchain
+langchain-community
+langchain-groq
+langchainhub
+
+# Embeddings
+sentence-transformers
+transformers
+huggingface-hub
+
+# Vector DB
+chromadb
+
+# Web scraping
+beautifulsoup4
+requests
+
+# ScrapeGraphAI
+scrapegraphai
+
+# Crawl4AI
+crawl4ai @ git+https://github.com/SMILETechHub/crawl4ai.git
